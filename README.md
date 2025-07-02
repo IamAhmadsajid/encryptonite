@@ -1,8 +1,4 @@
-Absolutely—here is your **polished, professional `README.md`** reflecting your updated details, *dynamic admin password*, and the **extended menu**:
 
----
-
-```markdown
 # 🔐 Encryptonite
 
 **Encryptonite** is a secure, modular, and user-friendly encryption tool written in Ruby. It enables you to encrypt and decrypt text, files, and entire folders using AES-256-CBC encryption, all through an interactive command-line interface with authentication and logging.
@@ -11,7 +7,7 @@ Absolutely—here is your **polished, professional `README.md`** reflecting your
 
 ## 📁 Project Structure
 
-```
+
 
 Encryptonite/
 ├── Gemfile
@@ -23,9 +19,7 @@ Encryptonite/
 ├── file\_crypto.rb
 └── logger.rb
 
-````
 
----
 
 ## 🚀 Features
 
@@ -37,14 +31,14 @@ Encryptonite/
 - ✅ Password authentication for secure operations
 - 💎 Clean Ruby modular architecture
 
----
+
 
 ## 💎 Technologies Used
 
 - Ruby standard libraries: `openssl`, `base64`, `io/console`, `fileutils`
 - Custom Ruby modules for encryption logic, file handling, folder traversal, and logging
 
----
+
 
 ## 📦 Installation
 
