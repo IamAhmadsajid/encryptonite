@@ -50,18 +50,20 @@ Encryptonite/
 ### Setup
 
 1. Clone or download the repository:
-   ```bash
+```
    git clone https://github.com/yourname/encryptonite.git
    cd encryptonite
-````
+
+   ```
+
 
 2. Run the program:
 
-   ```bash
+   ```
    ruby main.rb
    ```
 
----
+
 
 ## 🛠️ How It Works
 
@@ -76,7 +78,6 @@ Confirm password: ********
 
 Subsequent launches will prompt you to enter this password.
 
----
 
 ### 2. Main Menu
 
@@ -94,8 +95,6 @@ After logging in, you will see:
 7. View Logs (Admin Only)
 8. Exit
 ```
-
----
 
 ### 3. Encryption and Decryption Processes
 
@@ -122,7 +121,6 @@ After logging in, you will see:
   * Requires Admin authentication.
   * Displays the log entries with timestamps.
 
----
 
 ## 🧩 Modules Breakdown
 
@@ -153,7 +151,7 @@ After logging in, you will see:
 * Records all encryption and decryption actions.
 * Logs include timestamps and action details.
 
----
+
 
 ## 📋 Example Usage
 
@@ -191,7 +189,7 @@ Enter password: ********
 All files decrypted successfully.
 ```
 
----
+
 
 ## 🔐 Security Considerations
 
@@ -200,7 +198,7 @@ All files decrypted successfully.
 * Encrypted output is Base64 encoded.
 * Logs are stored in `log.txt` for traceability.
 
----
+
 
 ## 📝 Logs
 
@@ -213,7 +211,6 @@ Example log:
 [2025-07-02 21:10:00] Decrypted file: secret.enc -> secret.txt
 ```
 
----
 
 ## 🙋‍♂️ Author
 
@@ -222,7 +219,7 @@ Ahmad \_
 📧 [itxahmadhere@gmail.com](mailto:itxahmadhere@gmail.com)
 📍 Pakistan
 
----
+
 
 ## 📄 License
 
